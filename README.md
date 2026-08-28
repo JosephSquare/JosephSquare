@@ -1,6 +1,4 @@
-<img data-importer="image" align="left" height="200" src="https://i.ibb.co/1fvLz6JG/icon.jpg"  />
-
-###
+<br clear="both">
 
 <h2 data-importer="text" align="left">Hi! my name is José, and I’m very interested in technology and games. 🎮👾<br><br>ADS - CEUNSP 2º Semester</h2>
 
